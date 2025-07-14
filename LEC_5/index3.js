@@ -1,0 +1,1 @@
+//async await - to write promise in synchronous way
