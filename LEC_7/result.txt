@@ -1,0 +1,5 @@
+[{"name":"Keshav","age":"19","address":"Sangrur"},{"name":"Kansal","age":"21","address":"Punjab"},{"name":"keshav","age":20,"course":"cse"},{"name":"vamika","age":20,"course":"cse"}]
+
+
+
+//Assignment 2 - todo application and we hace to add data and take input from terminal title and description 
